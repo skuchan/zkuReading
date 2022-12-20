@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../admin-imooc-node"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue-element-admin-master"
+	}
+}
